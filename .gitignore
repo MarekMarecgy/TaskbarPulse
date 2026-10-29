@@ -1,0 +1,19 @@
+# Build artifacts and local scratch
+*.exe
+*.pdb
+*.zip
+bin/
+obj/
+work/
+dist/
+release/
+.vs/
+.vscode/
+*.user
+*.suo
+*.tmp
+*.log
+# Local settings must never be published
+settings.xml
+diagnostics.txt
+layout.txt
